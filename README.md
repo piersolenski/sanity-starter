@@ -34,6 +34,6 @@ Gatsby will perform an optimized production build for your site generating stati
 
 Builds the studio and deploys it along with the latest GraphQL schema.
 
-## Generating code
+## 🤖 Generating code
 
 Sanity Starter uses [Plop](https://github.com/plopjs/plop) to automate repetivitve workflows, such as creating documents and objects! Run `yarn plop` (or simply `plop` if you have it installed globally) to see your options.
