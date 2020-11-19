@@ -10,7 +10,7 @@
   },
   "license": "UNLICENSED",
   "scripts": {
-    "bootstrap": "plop bootstrap",
+    "bootstrap": "plop bootstrap && sanity start",
     "build": "sanity build",
     "deploy:graphql": "sanity graphql deploy --playground",
     "deploy:studio": "sanity deploy",
