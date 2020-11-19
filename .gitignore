@@ -2,3 +2,4 @@ node_modules/
 .vscode
 .DS_STORE
 .eslintcache
+yarn-error.log
