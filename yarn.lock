@@ -8128,10 +8128,10 @@ pleeease-filters@^4.0.0:
     onecolor "^3.0.4"
     postcss "^6.0.1"
 
-plop-pack-sanity-starter@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/plop-pack-sanity-starter/-/plop-pack-sanity-starter-0.0.2.tgz#2f5a6c70e452b30bc5cb4db20d1bcc714d040fb3"
-  integrity sha512-e0gcXfx3qiBxP0/A98GuV+qKk32+iWvIZKFgq86i1wxaTmvVoD5nKUG76w723qrBFP/xHfO8ZORtPsYDE0W7qA==
+plop-pack-sanity-starter@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/plop-pack-sanity-starter/-/plop-pack-sanity-starter-0.0.3.tgz#b6817e22f2534ee13e202b730a7f7d7beada565b"
+  integrity sha512-RndK3yHoAmNCLxcBKCxTjdDSNtoSa3TjdL70tDKsTcYsWWReN70yZCth98u+TAAUpfdA6ZwWrDEMugqyK/o81Q==
   dependencies:
     "@sanity/client" "^2.0.9"
     babel-eslint "^10.1.0"
