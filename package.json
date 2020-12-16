@@ -1,7 +1,7 @@
 {
   "name": "sanity-starter",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple boilerplate for kickstarting Sanity projects.",
   "main": "package.json",
   "author": {
